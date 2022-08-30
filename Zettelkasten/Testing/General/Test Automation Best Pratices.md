@@ -75,3 +75,5 @@ https://www2.stardust-testing.com/en/best-practices-regression-testing
 [Regression testing - Wikipedia](https://en.wikipedia.org/wiki/Regression_testing#Techniques)
 [Regression testing best practices and techniques](https://screenster.io/regression-testing/)
 [Regression Test Plan: A Checklist for Quality Assurance](https://www.testim.io/blog/regression-test-plan-a-checklist-for-quality-assurance/)
+[What To Do When Tests Fail? - TestProject](https://blog.testproject.io/2020/10/11/what-to-do-when-tests-fail/)
+[What is Root-Cause Analysis? Templates and Examples](https://www.spiceworks.com/tech/devops/articles/what-is-root-cause-analysis/)
