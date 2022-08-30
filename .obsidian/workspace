@@ -131,15 +131,15 @@
   },
   "active": "88123faeb41f029c",
   "lastOpenFiles": [
-    "Zettelkasten/Testing/Test Automation Best Pratices.md",
-    "Zettelkasten/Testing/Data Testing/Data observability.md",
+    "Zettelkasten/Testing/Data Testing/Data Governance.md",
+    "Zettelkasten/Testing/Data Testing/Data Quality.md",
     "Zettelkasten/Testing/Data Testing/Data Observability vs. Data Testing.md",
+    "Zettelkasten/Testing/Data Testing/Data observability.md",
+    "Zettelkasten/Testing/Test Automation Best Pratices.md",
     "Zettelkasten/Testing/Data Testing/data testing.md",
     "Zettelkasten/Testing/Data Testing/pandera.md",
     "Zettelkasten/Testing/Data Testing/Great Expectations.md",
     "Zettelkasten/Testing/Data Testing/Ways I Use Testing as a Data Scientist.md",
-    "Zettelkasten/hypothesis.md",
-    "Zettelkasten/Testing/Data Testing/Data Validation Tests.md",
-    "Zettelkasten/DevOps/continuous testing.md"
+    "Zettelkasten/Testing/hypothesis.md"
   ]
 }

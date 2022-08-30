@@ -59,6 +59,13 @@ Here we want to introduce repeatable and sustainable standards that will be appl
 - Logging - a record of an event in an standardized format for faster resolution
 - SLA tracking - the ability to measure data quality and pipeline metadata against pre-defined standards
 
+Another set of priciples:
+-   **Freshness**: Freshness seeks to understand how up-to-date your data tables are, as well as the cadence at which your tables are updated. Freshness is particularly important when it comes to decision making; after all, stale data is basically synonymous with wasted time and money.
+-   **Distribution**: Distribution, in other words, a function of your data’s possible values, tells you if your data is within an accepted range. Data distribution gives you insight into whether or not your tables can be trusted based on what can be expected from your data.
+-   **Volume:** Volume refers to the completeness of your data tables and offers insights on the health of your data sources. If 200 million rows suddenly turns into 5 million, you should know.
+-   **Schema**: Changes in the organization of your data, in other words, schema, often indicates broken data. Monitoring who makes changes to these tables and when is foundational to understanding the health of your data ecosystem.
+-   **Lineage**: When data breaks, the first question is always “where?” Data lineage provides the answer by telling you which upstream sources and downstream ingestors were impacted, as well as which teams are generating the data and who is accessing it. Good lineage also collects information about the data (also referred to as metadata) that speaks to governance, business, and technical guidelines associated with specific data tables, serving as a single source of truth for all consumers.
+
 To make most of that and acheive proper observability we need to introduce these standards across all teams and make sure that we collaborate.
 
 ![[Pasted image 20220829133357.png]]
@@ -110,6 +117,20 @@ After that we want to make use of a unified observability platform taht gives us
 ![[Pasted image 20220829155451.png]]
 
 
+### Metrics we can track for data quality
+- Null count
+- Schema changes
+- Data lineage
+- Pipeline failures
+- Pipeline durations
+- Missing data operations
+- Record count in a run
+- Tasks read from a dataset
+- Data freshness
+
+
+
 
 ___
 # References
+[What is Data Observability? Hint: it’s not just data for DevOps. | Towards Data Science](https://towardsdatascience.com/what-is-data-observability-40b337971e3e)
