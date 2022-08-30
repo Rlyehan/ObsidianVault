@@ -1,0 +1,145 @@
+{
+  "main": {
+    "id": "0ed03f62dda4ec77",
+    "type": "split",
+    "children": [
+      {
+        "id": "88123faeb41f029c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/Testing/Data Testing/Data observability.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "51512db067d10f0d",
+    "type": "split",
+    "children": [
+      {
+        "id": "083572a2a53bb231",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca22f5c3ec051463",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9d94d6ac2486b1b0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "51bcb3fe03b81727",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 243.5
+  },
+  "right": {
+    "id": "d8fc713cccca629e",
+    "type": "split",
+    "children": [
+      {
+        "id": "af7d558facd5c252",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79e51601d269428e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Zettelkasten/Testing/Data Testing/Data observability.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "4ebbce378bade307",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Zettelkasten/Testing/Data Testing/Data observability.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f5fbfecad90f1091",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6ea585e4a4974efb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Zettelkasten/Testing/Data Testing/Data observability.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "88123faeb41f029c",
+  "lastOpenFiles": [
+    "Zettelkasten/Testing/Test Automation Best Pratices.md",
+    "Zettelkasten/Testing/Data Testing/Data observability.md",
+    "Zettelkasten/Testing/Data Testing/Data Observability vs. Data Testing.md",
+    "Zettelkasten/Testing/Data Testing/data testing.md",
+    "Zettelkasten/Testing/Data Testing/pandera.md",
+    "Zettelkasten/Testing/Data Testing/Great Expectations.md",
+    "Zettelkasten/Testing/Data Testing/Ways I Use Testing as a Data Scientist.md",
+    "Zettelkasten/hypothesis.md",
+    "Zettelkasten/Testing/Data Testing/Data Validation Tests.md",
+    "Zettelkasten/DevOps/continuous testing.md"
+  ]
+}
