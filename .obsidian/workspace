@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/Testing/Tools/hypothesis.md",
+            "file": "Zettelkasten/DataOps/End-to-End Data Discovery, Observability, and Governance on AWS with LinkedIn’s Open-source DataHub.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5
+    "width": 309.5
   },
   "right": {
     "id": "d8fc713cccca629e",
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Testing/Tools/hypothesis.md",
+                "file": "Zettelkasten/DataOps/End-to-End Data Discovery, Observability, and Governance on AWS with LinkedIn’s Open-source DataHub.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Testing/Tools/hypothesis.md",
+                "file": "Zettelkasten/DataOps/End-to-End Data Discovery, Observability, and Governance on AWS with LinkedIn’s Open-source DataHub.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/Testing/Tools/hypothesis.md"
+                "file": "Zettelkasten/DataOps/End-to-End Data Discovery, Observability, and Governance on AWS with LinkedIn’s Open-source DataHub.md"
               }
             }
           }
@@ -129,17 +129,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ca22f5c3ec051463",
+  "active": "88123faeb41f029c",
   "lastOpenFiles": [
+    "Zettelkasten/AWS/Best practices for continuous testing and observability.md",
+    "Zettelkasten/AWS/AWS CloudWatch Logs.md",
+    "Zettelkasten/AWS/AWS Xray.md",
+    "Zettelkasten/Testing/Tools/hypothesis.md",
     "Zettelkasten/Testing/General/Test failure Analysis.md",
     "Zettelkasten/Testing/General/Test Automation Best Pratices.md",
     "Zettelkasten/Testing/General/Investigating failures.md",
     "Zettelkasten/Testing/General/Migration Testing strategy.md",
-    "Zettelkasten/Testing/Data Testing/Data observability.md",
-    "Zettelkasten/Testing/Data Testing/Data Governance.md",
-    "Zettelkasten/Testing/Data Testing/Data Quality.md",
-    "Zettelkasten/Testing/Data Testing/Data Observability vs. Data Testing.md",
-    "Zettelkasten/Testing/Data Testing/data testing.md",
-    "Zettelkasten/Testing/Data Testing/pandera.md"
+    "Zettelkasten/DataOps/Data observability.md",
+    "Zettelkasten/DataOps/Data Governance.md"
   ]
 }
