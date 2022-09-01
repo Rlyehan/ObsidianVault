@@ -8,7 +8,7 @@ Tags: #Data
 
 # Data Observability vs. Data Testing
 
-[[Data testing]] is an important tool for us as a first line of defence against bad data, like we use unit tests in a traditional software project. This approach was and still is fine if the volume of our data remains managable, but many modern projects ingest so much data that this is not reallz feasable any more. 
+[[data testing]] is an important tool for us as a first line of defence against bad data, like we use unit tests in a traditional software project. This approach was and still is fine if the volume of our data remains managable, but many modern projects ingest so much data that this is not reallz feasable any more. 
 
 For this we can make use of the same mechanisms for our data pipelines that has founds its way into modern software applications, [[Observability]]. 
 

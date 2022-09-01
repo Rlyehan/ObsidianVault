@@ -128,9 +128,10 @@ After that we want to make use of a unified observability platform taht gives us
 - Tasks read from a dataset
 - Data freshness
 
-
+![The 5 pillars of Data observability are freshness, schema, distribution, volume, and lineage.](https://www.montecarlodata.com/wp-content/uploads/2022/03/5-Pillars-of-Data-Observability-768x1024.jpg)
 
 
 ___
 # References
 [What is Data Observability? Hint: it’s not just data for DevOps. | Towards Data Science](https://towardsdatascience.com/what-is-data-observability-40b337971e3e)
+[What Is Data Observability? 5 Pillars You Need To Know](https://www.montecarlodata.com/blog-what-is-data-observability/)

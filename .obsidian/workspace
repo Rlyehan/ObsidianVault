@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/DataOps/End-to-End Data Discovery, Observability, and Governance on AWS with LinkedIn’s Open-source DataHub.md",
+            "file": "Zettelkasten/DataOps/Data Testing/HOW DO TEST THE UPSTREAM DATA IS GOOD IN AN ETL PROCESS.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/DataOps/End-to-End Data Discovery, Observability, and Governance on AWS with LinkedIn’s Open-source DataHub.md",
+                "file": "Zettelkasten/DataOps/Data Testing/HOW DO TEST THE UPSTREAM DATA IS GOOD IN AN ETL PROCESS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/DataOps/End-to-End Data Discovery, Observability, and Governance on AWS with LinkedIn’s Open-source DataHub.md",
+                "file": "Zettelkasten/DataOps/Data Testing/HOW DO TEST THE UPSTREAM DATA IS GOOD IN AN ETL PROCESS.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/DataOps/End-to-End Data Discovery, Observability, and Governance on AWS with LinkedIn’s Open-source DataHub.md"
+                "file": "Zettelkasten/DataOps/Data Testing/HOW DO TEST THE UPSTREAM DATA IS GOOD IN AN ETL PROCESS.md"
               }
             }
           }
@@ -129,17 +129,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "88123faeb41f029c",
+  "active": "ca22f5c3ec051463",
   "lastOpenFiles": [
-    "Zettelkasten/AWS/Best practices for continuous testing and observability.md",
-    "Zettelkasten/AWS/AWS CloudWatch Logs.md",
-    "Zettelkasten/AWS/AWS Xray.md",
-    "Zettelkasten/Testing/Tools/hypothesis.md",
-    "Zettelkasten/Testing/General/Test failure Analysis.md",
-    "Zettelkasten/Testing/General/Test Automation Best Pratices.md",
-    "Zettelkasten/Testing/General/Investigating failures.md",
-    "Zettelkasten/Testing/General/Migration Testing strategy.md",
+    "Zettelkasten/DataOps/Data Testing/Data Validation Tests.md",
+    "Zettelkasten/DataOps/Data Testing/HOW DO TEST THE UPSTREAM DATA IS GOOD IN AN ETL PROCESS.md",
+    "Zettelkasten/DataOps/Data Testing/How to add tests to your data pipelines.md",
+    "Zettelkasten/DataOps/Data Testing/Ways I Use Testing as a Data Scientist.md",
+    "Zettelkasten/DataOps/Data Testing/data testing.md",
+    "Zettelkasten/DataOps/Data Testing/Data Quality.md",
     "Zettelkasten/DataOps/Data observability.md",
-    "Zettelkasten/DataOps/Data Governance.md"
+    "Zettelkasten/MLOps/Testing features with pytest.md",
+    "Zettelkasten/Testing/Tools/python/pytest.md",
+    "Zettelkasten/DataOps/Ensuring Data Quality, With Great Expectations.md"
   ]
 }

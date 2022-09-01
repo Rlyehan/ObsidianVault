@@ -80,3 +80,4 @@ ___
 # References
 [The 6 Dimensions of Data Quality | Collibra](https://www.collibra.com/us/en/blog/the-6-dimensions-of-data-quality)
 [https://www.dama-nl.org/wp-content/uploads/2020/09/DDQ-Dimensions-of-Data-Quality-Research-Paper-version-1.2-d.d.-3-Sept-2020.pdf](https://www.dama-nl.org/wp-content/uploads/2020/09/DDQ-Dimensions-of-Data-Quality-Research-Paper-version-1.2-d.d.-3-Sept-2020.pdf)
+[https://5690064.fs1.hubspotusercontent-na1.net/hubfs/5690064/Content Offers (WPs, ebooks, Guides)/EBOOK - Top Ten Quality Metrics You Need to Know/The Top Data Quality Metrics You Need to Know_Databand.pdf](https://5690064.fs1.hubspotusercontent-na1.net/hubfs/5690064/Content%20Offers%20(WPs,%20ebooks,%20Guides)/EBOOK%20-%20Top%20Ten%20Quality%20Metrics%20You%20Need%20to%20Know/The%20Top%20Data%20Quality%20Metrics%20You%20Need%20to%20Know_Databand.pdf)
