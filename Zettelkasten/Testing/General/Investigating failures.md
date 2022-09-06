@@ -119,3 +119,6 @@ ___
 # References
 [Foresight Blog | Why Are Your Tests Failing?](https://www.runforesight.com/blog/why-are-your-tests-failing)
 [What is Root-Cause Analysis? Templates and Examples](https://www.spiceworks.com/tech/devops/articles/what-is-root-cause-analysis/)
+[Test Failure Analysis Best Practices | Sauce Labs](https://saucelabs.com/blog/test-failure-analysis-best-practices)
+[Why Test Failure Analysis Is Key to Faster Delivery | Perfecto](https://www.perfecto.io/blog/test-failure-analysis)
+[AI in Software Testing: Test Failure Prioritization | Tricentis](https://www.tricentis.com/artificial-intelligence-software-testing/test-failure-prioritization-healing/)

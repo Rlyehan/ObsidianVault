@@ -12,8 +12,7 @@ Tags: #TestAutomation
 - tests shoud be parameterized
 - tests should be maintainable
 - tests should be readable
-- 
-
+- tests should generated actionable artifacts
 
 
 ### more specific goals to achieve:
@@ -57,23 +56,12 @@ So that we can manage our test data properly there are some key aspects we shoul
 
 ___
 # References
-[Best Practices for Large Test Automation Projects  - AI-driven E2E automation with code-like flexibility for your most resilient tests](https://www.testim.io/blog/best-practices-for-large-test-automation-projects/)
+
 [Test Case Design: a Guide for QA Engineers With Examples - Testim Blog](https://www.testim.io/blog/test-case-design-guide-for-qa-engineers/)
-[Google Testing Blog: Flaky Tests at Google and How We Mitigate Them](https://testing.googleblog.com/2016/05/flaky-tests-at-google-and-how-we.html)
-[Google Testing Blog: Efficacy Presubmit](https://testing.googleblog.com/2018/09/efficacy-presubmit.html)
 [Google Testing Blog: Code Health: Respectful Reviews == Useful Reviews](https://testing.googleblog.com/2019/11/code-health-respectful-reviews-useful.html)
-[Google Testing Blog: Testing on the Toilet: Tests Too DRY? Make Them DAMP!](https://testing.googleblog.com/2019/12/testing-on-toilet-tests-too-dry-make.html)
-[Google Testing Blog: Code Coverage Best Practices](https://testing.googleblog.com/2020/08/code-coverage-best-practices.html)
-[Google Testing Blog: Fixing a Test Hourglass](https://testing.googleblog.com/2020/11/fixing-test-hourglass.html)
-[Google Testing Blog: Testing on the Toilet: Separation of Concerns? That's a Wrap!](https://testing.googleblog.com/2020/12/testing-on-toilet-separation-of.html)
-[Google Testing Blog: Test Flakiness - One of the main challenges of automated testing](https://testing.googleblog.com/2020/12/test-flakiness-one-of-main-challenges.html)
-[Google Testing Blog: Test Flakiness - One of the main challenges of automated testing (Part II)](https://testing.googleblog.com/2021/03/test-flakiness-one-of-main-challenges.html)[Google Testing Blog: Mutation Testing](https://testing.googleblog.com/2021/04/mutation-testing.html)
-[Google Testing Blog: How Much Testing is Enough?](https://testing.googleblog.com/2021/06/how-much-testing-is-enough.html)
-[Google Testing Blog: Code Health: Now You're Thinking With Functions](https://testing.googleblog.com/2022/02/code-health-now-youre-thinking-with.html)
+[Google Testing Blog: Mutation Testing](https://testing.googleblog.com/2021/04/mutation-testing.html)
 https://www2.stardust-testing.com/en/best-practices-regression-testing
 [Best Practices to Follow for Regression Testing in Agile](https://www.testingxperts.com/blog/regression-testing-best-practices)
 [Regression testing - Wikipedia](https://en.wikipedia.org/wiki/Regression_testing#Techniques)
 [Regression testing best practices and techniques](https://screenster.io/regression-testing/)
 [Regression Test Plan: A Checklist for Quality Assurance](https://www.testim.io/blog/regression-test-plan-a-checklist-for-quality-assurance/)
-[What To Do When Tests Fail? - TestProject](https://blog.testproject.io/2020/10/11/what-to-do-when-tests-fail/)
-[What is Root-Cause Analysis? Templates and Examples](https://www.spiceworks.com/tech/devops/articles/what-is-root-cause-analysis/)
