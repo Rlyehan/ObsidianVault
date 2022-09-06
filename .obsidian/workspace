@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/DataOps/Data Testing/Data Validation Tests.md",
+            "file": "Zettelkasten/Databases/Database Systems - Cornell university course.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/DataOps/Data Testing/Data Validation Tests.md",
+                "file": "Zettelkasten/Databases/Database Systems - Cornell university course.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/DataOps/Data Testing/Data Validation Tests.md",
+                "file": "Zettelkasten/Databases/Database Systems - Cornell university course.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/DataOps/Data Testing/Data Validation Tests.md"
+                "file": "Zettelkasten/Databases/Database Systems - Cornell university course.md"
               }
             }
           }
@@ -131,15 +131,15 @@
   },
   "active": "88123faeb41f029c",
   "lastOpenFiles": [
+    "Zettelkasten/Testing/Tools/JS/Cypress.md",
+    "Zettelkasten/DataOps/Data Testing/Data Validation Tests.md",
     "Zettelkasten/DataOps/Data Testing/Data Quality.md",
     "Zettelkasten/DataOps/Data Testing/data testing.md",
-    "Zettelkasten/DataOps/Data Testing/Data Validation Tests.md",
     "Zettelkasten/DataOps/Root cause analysis for Data pipelines.md",
     "Zettelkasten/DataOps/Ensuring Data Quality, With Great Expectations.md",
     "Zettelkasten/DataOps/End-to-End Data Discovery, Observability, and Governance on AWS with LinkedIn’s Open-source DataHub.md",
     "Zettelkasten/DataOps/Data Observability vs. Data Testing.md",
     "Zettelkasten/AWS/AWS CDK testing.md",
-    "Zettelkasten/Testing/General/Investigating failures.md",
-    "Zettelkasten/DataOps/Data Testing/HOW DO TEST THE UPSTREAM DATA IS GOOD IN AN ETL PROCESS.md"
+    "Zettelkasten/Testing/General/Investigating failures.md"
   ]
 }
