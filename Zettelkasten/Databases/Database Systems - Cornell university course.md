@@ -27,10 +27,27 @@ We use SQL here to insert, delete, update and analyze the data in our tables.
 
 # SQL: Simple Analysis
 
+look at the thrid slidedeck for more information about some general SQL syntax for JOINS, AGGREGATIONS and GROUP BY.
+
+# Advanced SQL features
+fourth slide deck
+
+
+# Data Storage hardware
+
+Capacity limits force data to lower parts of the hierachy, see slides for more
+Data access speed may become bottleneck -> deisgn alogirthms to minimize data movements.
+Random data access is expensive
+
+# Data storage format
+
+see slides for more
+
+
 
 
 
 ___
 # References
 [Database Systems - Cornell University Course (SQL, NoSQL, Large-Scale Data Analysis) - YouTube](https://www.youtube.com/watch?v=4cWkVbC2bNE&list=PLyUybGJ3e9oPqaKRxvmQx_WspljeE5_Ho&index=4)
-![[SQL_1.pdf]]![[SQL_2.pdf]]![[SQL_3.pdf]]
+![[SQL_1.pdf]]![[SQL_2.pdf]]![[SQL_3.pdf]]![[SQL_4.pdf]]![[Storage_1.pdf]]

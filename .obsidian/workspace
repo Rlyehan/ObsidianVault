@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/Testing/General/Test Automation Best Pratices.md",
+            "file": "Zettelkasten/Databases/Database Systems - Cornell university course.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Testing/General/Test Automation Best Pratices.md",
+                "file": "Zettelkasten/Databases/Database Systems - Cornell university course.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Testing/General/Test Automation Best Pratices.md",
+                "file": "Zettelkasten/Databases/Database Systems - Cornell university course.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/Testing/General/Test Automation Best Pratices.md"
+                "file": "Zettelkasten/Databases/Database Systems - Cornell university course.md"
               }
             }
           }
@@ -131,15 +131,15 @@
   },
   "active": "88123faeb41f029c",
   "lastOpenFiles": [
+    "Zettelkasten/Testing/Tools/JS/Introduction to Cypress.md",
+    "Zettelkasten/Testing/General/Test Automation Best Pratices.md",
+    "Zettelkasten/Databases/Database Systems - Cornell university course.md",
+    "Zettelkasten/Databases/Redis.md",
+    "Zettelkasten/Development/Software Architecture.md",
+    "Zettelkasten/DevOps/Terraform.md",
     "Zettelkasten/Testing/General/Investigating failures.md",
     "Zettelkasten/Testing/General/Test failure Analysis.md",
     "Zettelkasten/Testing/General/Migration Testing strategy.md",
-    "Zettelkasten/Testing/General/Test Automation Best Pratices.md",
-    "Zettelkasten/Testing/General/flaky tests.md",
-    "Zettelkasten/Testing/General/automated testing.md",
-    "Zettelkasten/Databases/Database Systems - Cornell university course.md",
-    "Zettelkasten/Testing/Tools/JS/Cypress.md",
-    "Zettelkasten/DataOps/Data Testing/Data Validation Tests.md",
-    "Zettelkasten/DataOps/Data Testing/Data Quality.md"
+    "Zettelkasten/Testing/General/flaky tests.md"
   ]
 }
