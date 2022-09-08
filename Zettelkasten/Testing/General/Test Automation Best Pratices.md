@@ -16,9 +16,28 @@ Tags: #TestAutomation
 
 
 ### more specific goals to achieve:
-- test coverage
+- test/feature/behaviour coverage
+- [[code coverage]]
 - test performance
-- rework or replace flaky tests (descibe what flaky means in this context)
+- rework or replace flaky tests (describe what flaky means in this context)
+
+
+It is also important to talk about testing from not only from the perspective of what it is, but also waht it is for and what it should mean for the team. Testing, and by extension quality, should not be seen as some elses concern. If we want to make sure to delivery hihg quality ptoducts quality is everyones concern and starts before the first line of code was written. An testing in that context is not that evil thing that hinders us from pushing to production, but it is a verification that we the features we created work as we expected them to. to make an analogy, seeibng the test for the feature we created pass should be see as teh same as when your favorit soccer team scores a goal. It should be something that makes th team happy.  So if we can have our team get into a quality first mindset, than that also means that the testing becomes part of daily operations and everyones concern. And that in turn leads to better code quality, better tests, more confidence in the products the team creates and generally also to faster turn over times.
+
+### How much testing is enough?
+
+This is a common question that we ask ourselves, how much testing do I need to do? Sadly that question is a hard one to answer in definitive terms. To make this clearer we should have a testing strategy for the specific project.
+
+To get started here are some helpful tips to get started:
+
+-   **Document your process or strategy.**
+-   **Have a solid base of unit tests.** At many companies, including Google, there are best practices of requiring any code change to have corresponding unit test cases that pass. As the code base expands, having a body of such tests that is executed before code is submitted is an important part of catching bugs before they creep into the code base. This saves time later both in writing integration tests, debugging, and verifying fixes to existing code.
+-   **Don’t skimp on integration testing.** As the codebase grows and reaches a point where numbers of functional units are available to test as a group, it’s time to have a solid base of integration tests. An integration test takes a small group of units, often only two units, and tests their behavior as a whole, verifying that they coherently work together.
+-   **Perform end-to-end testing for Critical User Journeys.** The discussion thus far covers testing the product at its component level, first as individual components (unit-testing), then as groups of components and dependencies (integration testing). Now it’s time to test the product end to end as a user would use it. This is quite important because it’s not just independent features that should be tested but entire workflows incorporating a variety of features. At Google these workflows - the combination of a critical goal and the journey of tasks a user undertakes to achieve that goal - are called Critical User Journeys (CUJs).
+-   **Understand and implement the other tiers of testing.**
+-   **Understand your coverage of code ([[Code Coverage]]) and functionality.**
+-   **Use feedback from the field to improve your process.**
+
 
 
 ### Test data managment
@@ -52,14 +71,11 @@ So that we can manage our test data properly there are some key aspects we shoul
 
 
 
-
-
 ___
 # References
 
 [Test Case Design: a Guide for QA Engineers With Examples - Testim Blog](https://www.testim.io/blog/test-case-design-guide-for-qa-engineers/)
-[Google Testing Blog: Code Health: Respectful Reviews == Useful Reviews](https://testing.googleblog.com/2019/11/code-health-respectful-reviews-useful.html)
-[Google Testing Blog: Mutation Testing](https://testing.googleblog.com/2021/04/mutation-testing.html)
+
 https://www2.stardust-testing.com/en/best-practices-regression-testing
 [Best Practices to Follow for Regression Testing in Agile](https://www.testingxperts.com/blog/regression-testing-best-practices)
 [Regression testing - Wikipedia](https://en.wikipedia.org/wiki/Regression_testing#Techniques)
