@@ -53,6 +53,44 @@ When we chain commands in cypress, the retry fucntionality will take that into c
 - .request() will use base url from: the cypress.json file
 - If we don't have API documentation: we can see the requests in the test runner
 
+
+### 7. Intercepting Network Requests
+
+- To wait for a network request we use: we intecept and wait for the command to happen
+- To create an alieas we use: .as()
+- to use.wait() with an alias we use: @symbole
+- Which attributes of requests cannot be tested: number of requests
+
+### 8. Stubbing responses
+
+- To substitute a response body, we use: body
+- When we want to use a file we store it: in oru fixtures folder
+- To simulate a network error: forceNetworkError
+- to cahnge the resposne dynamically second intercept() param: function
+
+
+### 9. Costum commands
+
+- to add a new command we use: Cypress.Commands.add()
+- to aotucomplete our command: Add a .d.ts file to our project
+- to add JSDoc to our function: /** JSDoc here */
+- to create a dual command: { prevSubject: 'optional' }
+
+
+### 10. Installing Plugins
+
+- to install a plugin, we import it inside: support/commands.js or support/index.js file
+- To perfom actions, Cypress uses: JavaScript
+- Cypress native events plugin uses: Chrome DevTools protocol
+- To do a visual test with applitools: .eyesOpen(), .eyesCheckWindow(), .eyesClose()
+
+### 11. Running a Task
+
+- to define a task we edit: plugins/index.js file
+- to pass a parameter  to our task: we need to define a second parameter to our .task() command
+- When we run a task, Cypress will: wait for task to finish
+- To tap into task events: on('task') function
+
 ___
 # References
 [Advanced Cypress](https://testautomationu.applitools.com/advanced-cypress-tutorial/)
