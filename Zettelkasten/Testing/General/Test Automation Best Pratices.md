@@ -14,13 +14,11 @@ Tags: #TestAutomation
 - tests should be readable
 - tests should generated actionable artifacts
 
-
 ### more specific goals to achieve:
 - test/feature/behaviour coverage
 - [[code coverage]]
 - test performance
 - rework or replace flaky tests (describe what flaky means in this context)
-
 
 It is also important to talk about testing from not only from the perspective of what it is, but also waht it is for and what it should mean for the team. Testing, and by extension quality, should not be seen as some elses concern. If we want to make sure to delivery hihg quality ptoducts quality is everyones concern and starts before the first line of code was written. An testing in that context is not that evil thing that hinders us from pushing to production, but it is a verification that we the features we created work as we expected them to. to make an analogy, seeibng the test for the feature we created pass should be see as teh same as when your favorit soccer team scores a goal. It should be something that makes th team happy.  So if we can have our team get into a quality first mindset, than that also means that the testing becomes part of daily operations and everyones concern. And that in turn leads to better code quality, better tests, more confidence in the products the team creates and generally also to faster turn over times.
 
@@ -37,8 +35,6 @@ To get started here are some helpful tips to get started:
 -   **Understand and implement the other tiers of testing.**
 -   **Understand your coverage of code ([[Code Coverage]]) and functionality.**
 -   **Use feedback from the field to improve your process.**
-
-
 
 ### Test data managment
 
@@ -69,15 +65,5 @@ So that we can manage our test data properly there are some key aspects we shoul
 
 - **Make test data readily available**. Running tests against a copy of a full production database introduces risk. It can be challenging and slow to get the data refreshed. As a result, the data can become out of date. Production data can also contain sensitive information. Instead, identify relevant sections of data that the tests require. Export these sections regularly and make them easily available to tests.
 
-
-
 ___
 # References
-
-[Test Case Design: a Guide for QA Engineers With Examples - Testim Blog](https://www.testim.io/blog/test-case-design-guide-for-qa-engineers/)
-
-https://www2.stardust-testing.com/en/best-practices-regression-testing
-[Best Practices to Follow for Regression Testing in Agile](https://www.testingxperts.com/blog/regression-testing-best-practices)
-[Regression testing - Wikipedia](https://en.wikipedia.org/wiki/Regression_testing#Techniques)
-[Regression testing best practices and techniques](https://screenster.io/regression-testing/)
-[Regression Test Plan: A Checklist for Quality Assurance](https://www.testim.io/blog/regression-test-plan-a-checklist-for-quality-assurance/)

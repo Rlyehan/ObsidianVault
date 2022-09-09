@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/Testing/Tools/JS/Advanced Cypress.md",
+            "file": "Zettelkasten/Testing/General/Test Automation Best Pratices.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Testing/Tools/JS/Advanced Cypress.md",
+                "file": "Zettelkasten/Testing/General/Test Automation Best Pratices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Testing/Tools/JS/Advanced Cypress.md",
+                "file": "Zettelkasten/Testing/General/Test Automation Best Pratices.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/Testing/Tools/JS/Advanced Cypress.md"
+                "file": "Zettelkasten/Testing/General/Test Automation Best Pratices.md"
               }
             }
           }
@@ -131,15 +131,15 @@
   },
   "active": "88123faeb41f029c",
   "lastOpenFiles": [
-    "Zettelkasten/Testing/General/Test Automation Best Pratices.md",
-    "Zettelkasten/Testing/Tools/JS/Advanced Cypress.md",
-    "Zettelkasten/DataOps/Monitoring Airflow with Prometheus, StatsD and Grafana.md",
-    "Zettelkasten/Testing/General/Test Plan.md",
-    "Zettelkasten/Testing/General/Mutation Testing.md",
-    "Zettelkasten/Testing/General/Test Efficacy.md",
-    "Zettelkasten/Testing/General/Code Coverage.md",
     "Zettelkasten/Testing/General/Migration Testing strategy.md",
-    "Zettelkasten/Databases/Database Systems - Cornell university course.md",
-    "Zettelkasten/Testing/Tools/JS/Introduction to Cypress.md"
+    "Zettelkasten/Testing/General/Test Architecture.md",
+    "Zettelkasten/Testing/Tools/JS/Introduction to Cypress.md",
+    "Zettelkasten/Testing/General/Investigating failures.md",
+    "Zettelkasten/Testing/General/flaky tests.md",
+    "Zettelkasten/Testing/General/Code Coverage.md",
+    "Zettelkasten/Testing/General/automated testing.md",
+    "Zettelkasten/Testing/General/Test Plan.md",
+    "Zettelkasten/Testing/General/Test Automation Best Pratices.md",
+    "Zettelkasten/Testing/Tools/JS/Advanced Cypress.md"
   ]
 }

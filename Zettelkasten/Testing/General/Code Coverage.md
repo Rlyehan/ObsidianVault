@@ -48,6 +48,20 @@ Beyond that, it is imoprtant to keep in mind that there are different forms of c
 -   **Condition coverage** – has each Boolean sub-expression evaluated both to true and false?
 
 
+### Code coverage at Google
+-   It demonstrates that it is possible to implement a code cov- erage infrastructure based on existing, well-established li- braries, seamlessly integrate it into the development work- flow, and scale it to an industry-scale code base.
+-   It details Google’s infrastructure for continuous code cover- age computation and how code coverage is visualized.
+-   It details adoption rates, error rates, and average code cover- age ratios over a five-year period.
+-   It reports on the perceived usefulness of code coverage, ana- lyzing 512 responses from surveyed developers at Google.
+
+Once the developer is satisfied with the contents of a changelist, they issue a mail command which initiates the code review process. At this point, automated analyses includ- ing code coverage are started and a notification is emailed to the reviewers. The changelist is now said to be “in review”. Through the review process the contents may change, leading to different snapshots. When the reviewers and the author approve of a change- list, the author issues a submit command. In the example above, this command first merges CL 2 with the current submitted state of the codebase (CL 4) and, if the merge is successful, runs more automated tests. Only if the merge is successful and all tests pass is the changelist submitted to the codebase.
+
+Be- cause Google enforces style guides for all major languages, line coverage strongly correlates with statement coverage in Google’s codebase.
+
+For C++, Java, and Python, Google’s code coverage infrastruc- ture also measures branch coverage, which is the percentage of branches of conditional statements (e.g., if statements) executed by a set of tests. Branch coverage is equivalent to edge coverage for all conditional edges in the control flow graph.
+
+This paper considers only code coverage of tests that execute on a single machine, usually in a single process. At Google, these are colloquially referred to as unit tests. This paper does not consider code coverage of more complex (i.e., integration or system) tests that span multiple machines. Since integration tests focus on inte- gration points between (sub)systems and not the internals of each (sub)system, line coverage is not the best suited coverage measure for these tests.
+
 
 
 
