@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/Testing/General/Test Automation Best Pratices.md",
+            "file": "Zettelkasten/Book notes/Computer Science/The pragmatic programmer/Chapter 9 Pragmatic projects.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Testing/General/Test Automation Best Pratices.md",
+                "file": "Zettelkasten/Book notes/Computer Science/The pragmatic programmer/Chapter 9 Pragmatic projects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Testing/General/Test Automation Best Pratices.md",
+                "file": "Zettelkasten/Book notes/Computer Science/The pragmatic programmer/Chapter 9 Pragmatic projects.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/Testing/General/Test Automation Best Pratices.md"
+                "file": "Zettelkasten/Book notes/Computer Science/The pragmatic programmer/Chapter 9 Pragmatic projects.md"
               }
             }
           }
@@ -131,15 +131,15 @@
   },
   "active": "88123faeb41f029c",
   "lastOpenFiles": [
-    "Zettelkasten/Testing/General/Migration Testing strategy.md",
-    "Zettelkasten/Testing/General/Test Architecture.md",
-    "Zettelkasten/Testing/Tools/JS/Introduction to Cypress.md",
-    "Zettelkasten/Testing/General/Investigating failures.md",
-    "Zettelkasten/Testing/General/flaky tests.md",
-    "Zettelkasten/Testing/General/Code Coverage.md",
-    "Zettelkasten/Testing/General/automated testing.md",
-    "Zettelkasten/Testing/General/Test Plan.md",
-    "Zettelkasten/Testing/General/Test Automation Best Pratices.md",
-    "Zettelkasten/Testing/Tools/JS/Advanced Cypress.md"
+    "Zettelkasten/Book notes/Computer Science/The pragmatic programmer/Chapter 8 before the project.md",
+    "Zettelkasten/Book notes/Computer Science/The pragmatic programmer/Chapter 7 While you're coding.md",
+    "Zettelkasten/Book notes/Computer Science/The pragmatic programmer/Chapter 6 Concurrency.md",
+    "Zettelkasten/Computer science/Databases/Database Systems - Cornell university course.md",
+    "Zettelkasten/Book notes/Computer Science/The pragmatic programmer/Chapter 5 bend, or break.md",
+    "Zettelkasten/Book notes/Computer Science/The pragmatic programmer/Chapter 4 Pragmatic paranoia.md",
+    "Zettelkasten/Book notes/Computer Science/The pragmatic programmer/Chapter 3 The basic tools.md",
+    "Zettelkasten/Book notes/Computer Science/The pragmatic programmer/Chapter 2 A pragmatic approach.md",
+    "Zettelkasten/Book notes/Computer Science/The pragmatic programmer/Chapter 1 a pragmatic philosophy.md",
+    "Zettelkasten/Computer science/Databases/Redis.md"
   ]
 }
