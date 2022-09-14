@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/Book notes/Computer Science/The pragmatic programmer/Chapter 9 Pragmatic projects.md",
+            "file": "Zettelkasten/Computer science/DevOps/Site Reliability Engineering.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Book notes/Computer Science/The pragmatic programmer/Chapter 9 Pragmatic projects.md",
+                "file": "Zettelkasten/Computer science/DevOps/Site Reliability Engineering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Book notes/Computer Science/The pragmatic programmer/Chapter 9 Pragmatic projects.md",
+                "file": "Zettelkasten/Computer science/DevOps/Site Reliability Engineering.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/Book notes/Computer Science/The pragmatic programmer/Chapter 9 Pragmatic projects.md"
+                "file": "Zettelkasten/Computer science/DevOps/Site Reliability Engineering.md"
               }
             }
           }
@@ -129,8 +129,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "88123faeb41f029c",
+  "active": "ca22f5c3ec051463",
   "lastOpenFiles": [
+    "Zettelkasten/Book notes/Computer Science/The pragmatic programmer/Chapter 9 Pragmatic projects.md",
     "Zettelkasten/Book notes/Computer Science/The pragmatic programmer/Chapter 8 before the project.md",
     "Zettelkasten/Book notes/Computer Science/The pragmatic programmer/Chapter 7 While you're coding.md",
     "Zettelkasten/Book notes/Computer Science/The pragmatic programmer/Chapter 6 Concurrency.md",
@@ -139,7 +140,6 @@
     "Zettelkasten/Book notes/Computer Science/The pragmatic programmer/Chapter 4 Pragmatic paranoia.md",
     "Zettelkasten/Book notes/Computer Science/The pragmatic programmer/Chapter 3 The basic tools.md",
     "Zettelkasten/Book notes/Computer Science/The pragmatic programmer/Chapter 2 A pragmatic approach.md",
-    "Zettelkasten/Book notes/Computer Science/The pragmatic programmer/Chapter 1 a pragmatic philosophy.md",
-    "Zettelkasten/Computer science/Databases/Redis.md"
+    "Zettelkasten/Book notes/Computer Science/The pragmatic programmer/Chapter 1 a pragmatic philosophy.md"
   ]
 }
