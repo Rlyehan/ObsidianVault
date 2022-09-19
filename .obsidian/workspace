@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/Computer science/Testing/Tools/python/Property-based Testing with Python.md",
+            "file": "Zettelkasten/Book notes/Philosophy/Self reliance, Ralph Waldo Emerson.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Computer science/Testing/Tools/python/Property-based Testing with Python.md",
+                "file": "Zettelkasten/Book notes/Philosophy/Self reliance, Ralph Waldo Emerson.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Computer science/Testing/Tools/python/Property-based Testing with Python.md",
+                "file": "Zettelkasten/Book notes/Philosophy/Self reliance, Ralph Waldo Emerson.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/Computer science/Testing/Tools/python/Property-based Testing with Python.md"
+                "file": "Zettelkasten/Book notes/Philosophy/Self reliance, Ralph Waldo Emerson.md"
               }
             }
           }
@@ -131,6 +131,7 @@
   },
   "active": "88123faeb41f029c",
   "lastOpenFiles": [
+    "Zettelkasten/Computer science/Testing/Tools/python/Property-based Testing with Python.md",
     "Zettelkasten/Computer science/Testing/Tools/python/hypothesis.md",
     "Zettelkasten/Computer science/Testing/Tools/python/Tox & Nox.md",
     "Zettelkasten/Computer science/Testing/Tools/python/pytest.md",
@@ -139,7 +140,6 @@
     "Zettelkasten/Book notes/Computer Science/The pragmatic programmer/Chapter 8 before the project.md",
     "Zettelkasten/Book notes/Computer Science/The pragmatic programmer/Chapter 7 While you're coding.md",
     "Zettelkasten/Book notes/Computer Science/The pragmatic programmer/Chapter 6 Concurrency.md",
-    "Zettelkasten/Computer science/Databases/Database Systems - Cornell university course.md",
-    "Zettelkasten/Book notes/Computer Science/The pragmatic programmer/Chapter 5 bend, or break.md"
+    "Zettelkasten/Computer science/Databases/Database Systems - Cornell university course.md"
   ]
 }
