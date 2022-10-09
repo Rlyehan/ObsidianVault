@@ -39,6 +39,9 @@ Capacity limits force data to lower parts of the hierachy, see slides for more
 Data access speed may become bottleneck -> deisgn alogirthms to minimize data movements.
 Random data access is expensive
 
+# Database Design
+
+
 
 
 ___
