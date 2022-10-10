@@ -51,7 +51,7 @@ Modularity has the following advantages:
 
 # Different Architecture styles
 
-### Monolithic arhcitecture
+### Monolithic architecture
 
 ![[Pasted image 20220907090333.png]]
 
