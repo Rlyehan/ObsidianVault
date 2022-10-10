@@ -1,15 +1,15 @@
 {
   "main": {
-    "id": "0ed03f62dda4ec77",
+    "id": "cc18b97b0b09cd6a",
     "type": "split",
     "children": [
       {
-        "id": "88123faeb41f029c",
+        "id": "7c1f92d97ba59bdd",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/DataOps/Data Testing/Data Quality.md",
+            "file": "Zettelkasten/Computer science/DataOps/Data Testing/Data Quality.md",
             "mode": "source",
             "source": false
           }
@@ -19,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "51512db067d10f0d",
+    "id": "8293ef8949dc5331",
     "type": "split",
     "children": [
       {
-        "id": "083572a2a53bb231",
+        "id": "6247bd5eba519f8b",
         "type": "tabs",
         "children": [
           {
-            "id": "ca22f5c3ec051463",
+            "id": "49974fdb4a252515",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,7 +35,7 @@
             }
           },
           {
-            "id": "9d94d6ac2486b1b0",
+            "id": "b643994912d4021b",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -50,7 +50,7 @@
             }
           },
           {
-            "id": "51bcb3fe03b81727",
+            "id": "b17ea72094228b53",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -61,47 +61,47 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5
+    "width": 300
   },
   "right": {
-    "id": "d8fc713cccca629e",
+    "id": "4b8e99471bbdc740",
     "type": "split",
     "children": [
       {
-        "id": "af7d558facd5c252",
+        "id": "56b598fa3e5d7dfe",
         "type": "tabs",
         "children": [
           {
-            "id": "79e51601d269428e",
+            "id": "f8a4a539834a20e8",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/DataOps/Data Testing/Data Quality.md",
+                "file": "Zettelkasten/Computer science/DataOps/Data Testing/Data Quality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
-            "id": "4ebbce378bade307",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Zettelkasten/DataOps/Data Testing/Data Quality.md",
-                "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "f5fbfecad90f1091",
+            "id": "8f6d6f89f49f1c41",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Zettelkasten/Computer science/DataOps/Data Testing/Data Quality.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1964af1289ad7a36",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -112,34 +112,29 @@
             }
           },
           {
-            "id": "6ea585e4a4974efb",
+            "id": "4a135f77ff0d4193",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/DataOps/Data Testing/Data Quality.md"
+                "file": "Zettelkasten/Computer science/DataOps/Data Testing/Data Quality.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "88123faeb41f029c",
+  "active": "7c1f92d97ba59bdd",
   "lastOpenFiles": [
-    "Zettelkasten/Development/Software Architecture.md",
-    "Zettelkasten/DataOps/Data Testing/Data Validation Tests.md",
-    "Zettelkasten/DataOps/Data Testing/data testing.md",
-    "Zettelkasten/DataOps/Data Testing/Data Quality.md",
-    "Zettelkasten/DataOps/Setting up end-to-end tests for cloud data pipelines.md",
-    "Zettelkasten/DataOps/End-to-End Data Discovery, Observability, and Governance on AWS with LinkedIn’s Open-source DataHub.md",
-    "Zettelkasten/DataOps/Data Testing/How to add tests to your data pipelines.md",
-    "Zettelkasten/DataOps/Data Testing/Ways I Use Testing as a Data Scientist.md",
-    "Zettelkasten/DataOps/Data Testing/HOW DO TEST THE UPSTREAM DATA IS GOOD IN AN ETL PROCESS.md",
-    "Zettelkasten/DataOps/Ensuring Data Quality, With Great Expectations.md"
+    "Zettelkasten/Computer science/DataOps/Data Testing/data testing.md",
+    "Zettelkasten/Computer science/DataOps/Data Testing/Data Validation Tests.md",
+    "Zettelkasten/Computer science/DataOps/Data Testing/Ways I Use Testing as a Data Scientist.md",
+    "Zettelkasten/Computer science/DataOps/Data Testing/The challenge of testing Data Pipelines.md",
+    "Zettelkasten/Computer science/DataOps/Data Testing/How to add tests to your data pipelines.md",
+    "Zettelkasten/Computer science/DataOps/Data Testing/HOW DO TEST THE UPSTREAM DATA IS GOOD IN AN ETL PROCESS.md"
   ]
 }
