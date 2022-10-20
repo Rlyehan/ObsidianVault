@@ -14,3 +14,4 @@ Tags:
 
 ___
 # References
+[Playwright with JavaScript](https://testautomationu.applitools.com/js-playwright-tutorial/)

@@ -4,16 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "7c1f92d97ba59bdd",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettelkasten/Computer science/DataOps/Data Testing/Data Validation in Training Pipelines using Pandera.md",
-            "mode": "source",
-            "source": false
+        "id": "32dda12a1a2f5cda",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "126fafbcac187462",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Computer science/DataOps/Data Testing/Database data testing using Great Expectation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        }
+        ]
       }
     ],
     "direction": "vertical"
@@ -31,7 +37,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -77,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Computer science/DataOps/Data Testing/Data Validation in Training Pipelines using Pandera.md",
+                "file": "Zettelkasten/Computer science/DataOps/Data Testing/Database data testing using Great Expectation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Computer science/DataOps/Data Testing/Data Validation in Training Pipelines using Pandera.md",
+                "file": "Zettelkasten/Computer science/DataOps/Data Testing/Database data testing using Great Expectation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/Computer science/DataOps/Data Testing/Data Validation in Training Pipelines using Pandera.md"
+                "file": "Zettelkasten/Computer science/DataOps/Data Testing/Database data testing using Great Expectation.md"
               }
             }
           }
@@ -128,17 +136,20 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7c1f92d97ba59bdd",
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "126fafbcac187462",
   "lastOpenFiles": [
-    "Zettelkasten/Computer science/DataOps/Data Testing/Database data testing using Great Expectation.md",
-    "Zettelkasten/Computer science/DataOps/Data Testing/Comparison of dbt, Deequ, Great Expectation.md",
-    "Zettelkasten/Computer science/DataOps/Data Testing/Data Quality Testing with AWS Deequ.md",
-    "Zettelkasten/Computer science/DataOps/Data Testing/Data Quality.md",
-    "Zettelkasten/Computer science/Testing/Tools/JS/Playwright Introduction.md",
-    "Zettelkasten/Computer science/DataOps/Data Testing/How to add tests to your data pipelines.md",
-    "Zettelkasten/Computer science/DataOps/Data Testing/data testing.md",
     "Zettelkasten/Computer science/DataOps/Data Testing/Data Validation Tests.md",
-    "Zettelkasten/Computer science/DataOps/Data Testing/Ways I Use Testing as a Data Scientist.md",
-    "Zettelkasten/Computer science/DataOps/Data Testing/The challenge of testing Data Pipelines.md"
+    "Zettelkasten/Computer science/DataOps/Data Testing/Data Validation in Training Pipelines using Pandera.md",
+    "Zettelkasten/Computer science/DataOps/Data Testing/Data validation in Model serving using pydantic.md",
+    "Zettelkasten/Computer science/Testing/Tools/python/Property-based Testing with Python.md",
+    "Zettelkasten/Computer science/Testing/Tools/python/pytest.md",
+    "Zettelkasten/Computer science/Testing/Tools/python/pandera.md",
+    "Zettelkasten/Computer science/Testing/Tools/python/hypothesis.md",
+    "Zettelkasten/Computer science/Testing/Tools/python/Great Expectations.md",
+    "Zettelkasten/Computer science/DataOps/Data Testing/data testing.md",
+    "Zettelkasten/Computer science/DataOps/Data Testing/Data Quality Tests using Great Expectations.md"
   ]
 }
