@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Computer science/DataOps/Data Testing/Database data testing using Great Expectation.md",
+                "file": "Zettelkasten/Computer science/Testing/Tools/JS/Playwright Introduction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c9c4483f02f656cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Computer science/Testing/Tools/JS/NextJS testing with Playwright.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Computer science/DataOps/Data Testing/Database data testing using Great Expectation.md",
+                "file": "Zettelkasten/Computer science/Testing/Tools/JS/NextJS testing with Playwright.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Computer science/DataOps/Data Testing/Database data testing using Great Expectation.md",
+                "file": "Zettelkasten/Computer science/Testing/Tools/JS/NextJS testing with Playwright.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,31 +138,32 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/Computer science/DataOps/Data Testing/Database data testing using Great Expectation.md"
+                "file": "Zettelkasten/Computer science/Testing/Tools/JS/NextJS testing with Playwright.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "126fafbcac187462",
+  "active": "c9c4483f02f656cd",
   "lastOpenFiles": [
+    "Zettelkasten/Computer science/Testing/Tools/JS/Playwright Introduction.md",
+    "Zettelkasten/Computer science/DataOps/Data Testing/Database data testing using Great Expectation.md",
+    "Zettelkasten/Computer science/DataOps/Data Testing/Does great expectations cover our needs.md",
     "Zettelkasten/Computer science/DataOps/Data Testing/Data Validation Tests.md",
     "Zettelkasten/Computer science/DataOps/Data Testing/Data Validation in Training Pipelines using Pandera.md",
     "Zettelkasten/Computer science/DataOps/Data Testing/Data validation in Model serving using pydantic.md",
+    "Zettelkasten/Computer science/DataOps/Data Testing/Data Quality Tests using Great Expectations.md",
+    "Zettelkasten/Computer science/DataOps/Data Testing/Data Quality Testing with AWS Deequ.md",
     "Zettelkasten/Computer science/Testing/Tools/python/Property-based Testing with Python.md",
-    "Zettelkasten/Computer science/Testing/Tools/python/pytest.md",
-    "Zettelkasten/Computer science/Testing/Tools/python/pandera.md",
-    "Zettelkasten/Computer science/Testing/Tools/python/hypothesis.md",
-    "Zettelkasten/Computer science/Testing/Tools/python/Great Expectations.md",
-    "Zettelkasten/Computer science/DataOps/Data Testing/data testing.md",
-    "Zettelkasten/Computer science/DataOps/Data Testing/Data Quality Tests using Great Expectations.md"
+    "Zettelkasten/Computer science/Testing/Tools/python/pytest.md"
   ]
 }
