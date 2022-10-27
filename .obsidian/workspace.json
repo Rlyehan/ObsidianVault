@@ -18,8 +18,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "278a9d94ba60b32e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Computer science/DevOps/A beginners guide to Observability.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7fa961d136f22fe8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Computer science/DevOps/Monitoring and Observaliblity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ff6de307e359927c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Computer science/DevOps/Monitoring in the time of cloud native.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Computer science/Testing/Tools/JS/NextJS testing with Playwright.md",
+                "file": "Zettelkasten/Computer science/DevOps/Monitoring in the time of cloud native.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Computer science/Testing/Tools/JS/NextJS testing with Playwright.md",
+                "file": "Zettelkasten/Computer science/DevOps/Monitoring in the time of cloud native.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/Computer science/Testing/Tools/JS/NextJS testing with Playwright.md"
+                "file": "Zettelkasten/Computer science/DevOps/Monitoring in the time of cloud native.md"
               }
             }
           }
@@ -137,17 +174,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "c9c4483f02f656cd",
+  "active": "ff6de307e359927c",
   "lastOpenFiles": [
-    "Zettelkasten/Computer science/Testing/Tools/JS/Playwright Introduction.md",
+    "Zettelkasten/Computer science/DevOps/Monitoring and Observaliblity.md",
+    "Zettelkasten/Computer science/DevOps/A beginners guide to Observability.md",
     "Zettelkasten/Computer science/Testing/Tools/JS/NextJS testing with Playwright.md",
+    "Zettelkasten/Computer science/Testing/Tools/JS/Playwright Introduction.md",
     "Zettelkasten/Computer science/DataOps/Data Testing/Database data testing using Great Expectation.md",
     "Zettelkasten/Computer science/DataOps/Data Testing/Does great expectations cover our needs.md",
     "Zettelkasten/Computer science/DataOps/Data Testing/Data Validation Tests.md",
     "Zettelkasten/Computer science/DataOps/Data Testing/Data Validation in Training Pipelines using Pandera.md",
     "Zettelkasten/Computer science/DataOps/Data Testing/Data validation in Model serving using pydantic.md",
-    "Zettelkasten/Computer science/DataOps/Data Testing/Data Quality Tests using Great Expectations.md",
-    "Zettelkasten/Computer science/DataOps/Data Testing/Data Quality Testing with AWS Deequ.md",
-    "Zettelkasten/Computer science/Testing/Tools/python/Property-based Testing with Python.md"
+    "Zettelkasten/Computer science/DataOps/Data Testing/Data Quality Tests using Great Expectations.md"
   ]
 }
