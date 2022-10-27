@@ -6,7 +6,7 @@ Domain:
 
 Tags:
 
-# NextJS testing with Playwright
+# NextJS testing with [[Playwright]]
 
 
 
