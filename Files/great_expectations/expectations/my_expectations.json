@@ -1,0 +1,47 @@
+{
+  "data_asset_type": "Dataset",
+  "expectation_suite_name": "my_expectations",
+  "expectations": [
+    {
+      "expectation_type": "expect_column_to_exist",
+      "kwargs": {
+        "column": "Id"
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_values_to_be_unique",
+      "kwargs": {
+        "column": "Id"
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_distinct_values_to_be_in_set",
+      "kwargs": {
+        "column": "MSZoning",
+        "value_set": [
+          "C (all)",
+          "FV",
+          "RH",
+          "RL",
+          "RM"
+        ]
+      },
+      "meta": {}
+    },
+    {
+      "expectation_type": "expect_column_mean_to_be_between",
+      "kwargs": {
+        "column": "GrLivArea",
+        "max_value": 10000,
+        "min_value": 0
+      },
+      "meta": {}
+    }
+  ],
+  "ge_cloud_id": null,
+  "meta": {
+    "great_expectations_version": "0.15.27"
+  }
+}

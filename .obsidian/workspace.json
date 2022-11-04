@@ -11,8 +11,12 @@
             "id": "d67ec736ac11790d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Computer science/DataOps/Data Testing/HOW DO TEST THE UPSTREAM DATA IS GOOD IN AN ETL PROCESS.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Zettelkasten/Computer science/DataOps/Data Testing/HOW DO TEST THE UPSTREAM DATA IS GOOD IN AN ETL PROCESS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Zettelkasten/Computer science/DataOps/Data Testing/HOW DO TEST THE UPSTREAM DATA IS GOOD IN AN ETL PROCESS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Zettelkasten/Computer science/DataOps/Data Testing/HOW DO TEST THE UPSTREAM DATA IS GOOD IN AN ETL PROCESS.md"
+              }
             }
           }
         ],
@@ -129,11 +137,14 @@
     "width": 200,
     "collapsed": true
   },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
   "active": "d67ec736ac11790d",
   "lastOpenFiles": [
+    "Zettelkasten/Computer science/Testing/Tools/JS/Playwright Introduction.md",
     "Zettelkasten/Computer science/MLOps/Explainable AI for medical Images.md",
     "Zettelkasten/Computer science/MLOps/Overview of gradient descent optimization algorithms.md",
-    "Zettelkasten/Computer science/Testing/Tools/JS/Playwright Introduction.md",
     "Zettelkasten/Computer science/Random notes/How to become a Data Engineer.md",
     "Zettelkasten/Computer science/Azure/Distributed Tracing and Observabiltity for Azure functions.md",
     "Zettelkasten/Computer science/Kubernetes/Understanding Kubernetes Architecture with Diagrams.md",
