@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b21f5ac002196e04",
+        "id": "415203b8c9c3daad",
         "type": "tabs",
         "children": [
           {
-            "id": "d67ec736ac11790d",
+            "id": "af972158956aa266",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Computer science/DataOps/Data Testing/HOW DO TEST THE UPSTREAM DATA IS GOOD IN AN ETL PROCESS.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Computer science/DataOps/Data Testing/HOW DO TEST THE UPSTREAM DATA IS GOOD IN AN ETL PROCESS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Computer science/DataOps/Data Testing/HOW DO TEST THE UPSTREAM DATA IS GOOD IN AN ETL PROCESS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Zettelkasten/Computer science/DataOps/Data Testing/HOW DO TEST THE UPSTREAM DATA IS GOOD IN AN ETL PROCESS.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -137,20 +129,17 @@
     "width": 200,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "d67ec736ac11790d",
+  "active": "af972158956aa266",
   "lastOpenFiles": [
+    "Zettelkasten/Cyberpunk PnP/Jana feedback.md",
+    "Zettelkasten/Cyberpunk PnP/AIs.md",
+    "Zettelkasten/Cyberpunk PnP/VR Double.md",
+    "Zettelkasten/Cyberpunk PnP/Neuro-Core.md",
+    "Zettelkasten/Cyberpunk PnP/Implants.md",
+    "Zettelkasten/Computer science/Testing/Tools/python/Getting started with testing in python.md",
+    "Zettelkasten/Computer science/Testing/Tools/python/Doctest module.md",
+    "Zettelkasten/Computer science/Testing/Tools/JS/NextJS testing with Playwright.md",
     "Zettelkasten/Computer science/Testing/Tools/JS/Playwright Introduction.md",
-    "Zettelkasten/Computer science/MLOps/Explainable AI for medical Images.md",
-    "Zettelkasten/Computer science/MLOps/Overview of gradient descent optimization algorithms.md",
-    "Zettelkasten/Computer science/Random notes/How to become a Data Engineer.md",
-    "Zettelkasten/Computer science/Azure/Distributed Tracing and Observabiltity for Azure functions.md",
-    "Zettelkasten/Computer science/Kubernetes/Understanding Kubernetes Architecture with Diagrams.md",
-    "Zettelkasten/Computer science/AWS/AWS CDK testing.md",
-    "Zettelkasten/Computer science/DevOps/Monitoring and Observaliblity.md",
-    "Zettelkasten/Computer science/DevOps/A beginners guide to Observability.md",
-    "Zettelkasten/Computer science/Testing/Tools/JS/NextJS testing with Playwright.md"
+    "Zettelkasten/Computer science/DataOps/Data Testing/HOW DO TEST THE UPSTREAM DATA IS GOOD IN AN ETL PROCESS.md"
   ]
 }
