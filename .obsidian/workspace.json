@@ -4,18 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "415203b8c9c3daad",
+        "id": "b4cf28fd00d2239c",
         "type": "tabs",
         "children": [
           {
-            "id": "af972158956aa266",
+            "id": "22ceeb51162c8a8e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Computer science/DataOps/What is data profiling.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "60861ef4fb69408e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Computer science/DataOps/DataOps - using data to drive data infrastructure.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ff0a9287cdf2bd38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Computer science/DataOps/DataOps Part 2 - using data to find data.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b23b2de63658c4e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Computer science/DataOps/Test harnesses for data pipelines and workflows.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -81,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Zettelkasten/Computer science/DataOps/Test harnesses for data pipelines and workflows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Zettelkasten/Computer science/DataOps/Test harnesses for data pipelines and workflows.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +161,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Zettelkasten/Computer science/DataOps/Test harnesses for data pipelines and workflows.md"
+              }
             }
           }
         ],
@@ -129,17 +174,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "af972158956aa266",
+  "active": "b23b2de63658c4e8",
   "lastOpenFiles": [
+    "Zettelkasten/Computer science/DataOps/DataOps Part 2 - using data to find data.md",
+    "Zettelkasten/Computer science/DataOps/DataOps - using data to drive data infrastructure.md",
+    "Zettelkasten/Computer science/DataOps/What is data profiling.md",
+    "Zettelkasten/Computer science/Testing/Tools/JS/Mocking a library with Jest and TypeScript.md",
+    "Zettelkasten/Computer science/DataOps/Data Testing/Provide data reliability in Amazon Redshift at scale using Great Expectations library.md",
     "Zettelkasten/Cyberpunk PnP/Jana feedback.md",
     "Zettelkasten/Cyberpunk PnP/AIs.md",
     "Zettelkasten/Cyberpunk PnP/VR Double.md",
     "Zettelkasten/Cyberpunk PnP/Neuro-Core.md",
-    "Zettelkasten/Cyberpunk PnP/Implants.md",
-    "Zettelkasten/Computer science/Testing/Tools/python/Getting started with testing in python.md",
-    "Zettelkasten/Computer science/Testing/Tools/python/Doctest module.md",
-    "Zettelkasten/Computer science/Testing/Tools/JS/NextJS testing with Playwright.md",
-    "Zettelkasten/Computer science/Testing/Tools/JS/Playwright Introduction.md",
-    "Zettelkasten/Computer science/DataOps/Data Testing/HOW DO TEST THE UPSTREAM DATA IS GOOD IN AN ETL PROCESS.md"
+    "Zettelkasten/Cyberpunk PnP/Implants.md"
   ]
 }
